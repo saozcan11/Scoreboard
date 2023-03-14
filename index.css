@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    background: #1B244A;
+    text-align: center;
+}
+#new-game{
+    font-size: 15px 
+}
+.score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    margin: 20px;
+    width: 155px;
+    height: 120px;
+    left: 337px;
+    top: 125px;
+    font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+/* or 141% */
+
+text-align: center;
+
+color: #F94F6D;
+
+
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+}
+
+.column {
+}
+
+button {
+    background: none;
+    background-color: #9AABD8;
+    
+}
+    
+#middle-buttons{
+    font-size: 15px
+    
+}
